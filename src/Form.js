@@ -79,7 +79,7 @@ class Form extends Component {
                 </div>
                 <div className="col-md">
                   <div className="form-group">
-                    <label>Manu Date</label>
+                    <label>Manufacture Date</label>
                     <input 
                       type="date" 
                       name="manufactureDate" 
