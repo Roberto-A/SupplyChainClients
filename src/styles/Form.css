@@ -6,8 +6,8 @@
 
 legend {
     font-size: larger;
-    float: left;
     margin: 10px;
+    text-align: left;
 }
 
 p {
@@ -40,6 +40,10 @@ input {
 
 .col-md input {
     width: 90%;
+}
+
+.col-md .form-group input {
+    margin-left: -15px;
 }
 
 .btn-submit {
